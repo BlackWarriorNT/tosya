@@ -1,2 +1,15 @@
-# tosya
-Telegram Organaizer System
+# ТОСя (Telegram Organaizer System)
+Сервис созданный по моей просьбе товарищем [AmazetNT](https://github.com/grostbite) и совместно дорабываемый. Написан на Python и HTML+JS.
+
+## Предназначение сервиса
+Висит службой на сервере (или локальном компьютере) и напоминает пользователю о делах и событиях при помощи "ябед" в Telegram.
+
+## Как пользоваться
+Зайти браузером по адресу сервера на порт 5000 (например: 127.0.0.1:5000).
+
+## Как установить
+### Linux
+'''
+sudo apt install python3
+sudo pip3 install flask flask-cors
+'''
