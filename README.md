@@ -11,5 +11,5 @@
 ### Linux
 ```
 sudo apt install python3
-sudo pip3 install flask flask-cors
+sudo pip3 install flask flask-cors requests
 ```
